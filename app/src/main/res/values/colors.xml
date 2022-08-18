@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary_color">#24303E</color>
+    <color name="defColor">#1A232C</color>
+
+
+    <color name="myWhite">#1A232C</color>
+    <color name="light_blue">#BEC3DF</color>
+    <color name="seek_color">#AA65FF</color>
+    <color name="light_pink">#EFD8F6</color>
+    <color name="light_salat">#BEE0FB</color>
+    <color name="light_green">#B9EDBB</color>
+    <color name="salat_2">#DAE6E6</color>
+    <color name="reading_toolbar_color">#1A232C</color>
+    <color name="like_color">#495665</color>
+    <color name="clear_color">#41556C</color>
+    <color name="light_color">#232C35</color>
+
+
+    <color name="to_right_color">#FFFFFF</color>
+    <color name="item_click">#4E5F73</color>
+    <color name="search_color">#24303E</color>
+    <color name="empty_box_color">#BAB7B7</color>
+    <color name="core_progress_color">#DD5E7D</color>
+    <color name="time_color">#4E5F73</color>
+
+    <color name="progress_text_color">#DD5E7D</color>
+
+    <color name="light_black">#24303E</color>
+    <color name="purple_life">#24303E</color>
+    <color name="purple_life2">#24303E</color>
+    <color name="success_color">#24303E</color>
+    <color name="love_start_color">#24303E</color>
+    <color name="love_center_color">#24303E</color>
+    <color name="love_end_color">#24303E</color>
+    <color name="happy_start_color">#24303E</color>
+    <color name="happy_end_color">#24303E</color>
+
+
+    <color name="clickColor">#4E5F73</color>
+    <color name="koin_exchange_edt">#24303E</color>
+    <color name="hint_color">#9C9797</color>
+
+</resources>
